@@ -1,4 +1,4 @@
-public class HomeWorkApp {
+public class One_more_HW {
     public static void main(String[] args) {
         printThreeWords(); checkSumSign(); printColor(); compareNumbers();
     }
@@ -28,7 +28,7 @@ public class HomeWorkApp {
         }
     }
     public static void compareNumbers() {
-        int a = 40;
+        int a = 30;
         int b = 40;
         if (a >= b) {
             System.out.println("a >= b");
